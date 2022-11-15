@@ -1,1 +1,8 @@
+#import NumPy
+#from array import array
+import random
+
+def roll():
+    diceRolls = []
+    
 
